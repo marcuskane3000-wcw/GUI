@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>23F79</string>
+	<string>25G83</string>
 	<key>CFBundleDisplayName</key>
 	<string>Nexus</string>
 	<key>CFBundleExecutable</key>
@@ -17,7 +17,7 @@
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.5.19</string>
+	<string>5.5.21</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -25,25 +25,25 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>4.5.19</string>
+	<string>5.5.21</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string></string>
+	<string>25F70</string>
 	<key>DTPlatformName</key>
 	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>14.5</string>
+	<string>26.5</string>
 	<key>DTSDKBuild</key>
-	<string>23F73</string>
+	<string>25F70</string>
 	<key>DTSDKName</key>
-	<string>macosx14.5</string>
+	<string>macosx26.5</string>
 	<key>DTXcode</key>
-	<string>1540</string>
+	<string>2650</string>
 	<key>DTXcodeBuild</key>
-	<string>15F31d</string>
+	<string>17F42</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.9</string>
+	<string>10.11</string>
 	<key>NSHighResolutionCapable</key>
 	<true/>
 </dict>
